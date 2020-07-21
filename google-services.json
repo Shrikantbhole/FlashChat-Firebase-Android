@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730443791927",
+    "firebase_url": "https://flashchatproject-fb845.firebaseio.com",
+    "project_id": "flashchatproject-fb845",
+    "storage_bucket": "flashchatproject-fb845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730443791927:android:aeda865048121d2abe49b2",
+        "android_client_info": {
+          "package_name": "com.shrikantBhole.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730443791927-ggpqnu6rhqhj8ro9f2qnt9ocv8prs4oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qEtCB1CtePSKnCrH7ELWHw2UG6I6A40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730443791927-ggpqnu6rhqhj8ro9f2qnt9ocv8prs4oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
